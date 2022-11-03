@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #333333;
+}
+
+h4{
+  position: absolute;
+  height: 25px;
+  width: 133px;
+  left: 77px;
+  top: 40px;
+}
+a{
+  font-family: 'Inconsolata', monospace;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: -0.08em;
+  word-spacing: 2px;
+  text-align: left;
+  color:#333333;
+}
+
+section{
+  height: 1080px;
+  width: 1440px;
+  border-radius: 8px;
+  background: #FFFFFF;
+  left: -939px;
+  top: -541px;
+  box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 1);
+  margin-top: 20px;
+}
+img{
+  position: absolute;
+  left:5.35%;
+  right: 57.21%;
+  top: 24.54%;
+  bottom:34.03%;
+  height: 447.4263916015625px;
+  width: 539.2236938476562px;
+  left: 77px;
+  top: 265px;
+  border-radius: 0px;
+
+}
+.containertwo{
+  position: absolute;
+  height: 190px;
+  width: 586px;
+  left: 735px;
+  top: 265px;
+  border-radius: nullpx;
+}
+p{
+  font-family: monospace;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  font-style: none;
+  color: #333333;
+}
+.containerthree{
+  position: absolute;
+  height: 108px;
+  width: 381px;
+  left: 736px;
+  top: 491px;
+  border-radius: nullpx;
+}
+#text{
+  font-family: monospace;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  color: #4F4F4F;
+}
+.containerfour{
+  position: absolute;
+  height: 68px;
+  width: 216px;
+  left: 740px;
+  top: 663px;
+  border-radius: 0px;
+  background: #333333;
+}
+button{
+  font-family: monospace;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  text-transform: uppercase;
+  letter-spacing: 0.035em;
+  color: #FFFFFF;
+  position: relative;
+  }
+  .containerfive{
+    position: absolute;
+    height: 17px;
+    width: 287px;
+    left: 577px;
+    top: 1039px;
+    border-radius: nullpx;
+  }
+  h6{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #bdbdbd;
+    }
+    footer{
+      height: 63px;
+      width: 924px;
+      left: -939px;
+      top: 653px;
+      border-radius: nullpx;
+      margin-top: 50px;
+    }
+    .end p{
+      font-family: 'Roboto',sans-serif;
+      font-size: 10px;
+      font-weight: 400;
+      line-height: 21px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #FFFFFF;
+    }
+    @media screen and (max-width:478px){
+     section{
+       background: cornflowerblue;
+     } 
+
+    }
+
